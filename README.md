@@ -1,13 +1,5 @@
 OpenCV Installation
 ===================
-
-OpenCV installation script.
-
-Works on Ubuntu 12.04.4 LTS
-
-Refer to the setup in the site because there some file editing that you will need to manually insert data
-http://www.samontab.com/web/2012/06/installing-opencv-2-4-1-ubuntu-12-04-lts/OpenCV Installation
-===================
 Installation Script
 
 Tested on Ubuntu 12.04.4 Desktop (32-bit)
